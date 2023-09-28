@@ -2,9 +2,9 @@
 
 ## Overview
 
-Welcome to the Olympic Data Analytics project powered by Azure Technologies and enhanced with Power BI! This project showcases the utilization of various Azure services for data ingestion, transformation, orchestration, and analytics. Here's a summary of what we've accomplished:
+Welcome to the Olympic Data Analytics project powered by Azure Technologies and enhanced with Power BI! This project showcases the utilization of various Azure services for data ingestion, transformation, orchestration, and analytics. Here's a summary of what I've accomplished:
 
-- **Azure Data Factory:** We leveraged Azure Data Factory for data ingestion, transformation, and orchestration, ensuring a streamlined data pipeline.
+- **Azure Data Factory:** I leveraged Azure Data Factory for data ingestion, transformation, and orchestration, ensuring a streamlined data pipeline.
 
 - **Azure Data Lake Gen 2:** Data was efficiently stored and managed in Azure Data Lake Gen 2, providing scalability and security.
 
@@ -12,13 +12,13 @@ Welcome to the Olympic Data Analytics project powered by Azure Technologies and 
 
 - **Azure Databricks:** Data processing and analysis tasks were performed effectively with Azure Databricks, offering flexibility and scalability.
 
-- **Diverse Datasets and APIs:** We demonstrated proficiency in working with diverse datasets and APIs, ensuring comprehensive data coverage.
+- **Diverse Datasets and APIs:** I demonstrated proficiency in working with diverse datasets and APIs, ensuring comprehensive data coverage.
 
 - **Azure Account Setup:** Hands-on experience was gained in setting up Azure accounts and configuring services to meet project requirements.
 
 - **End-to-End Execution:** The project was successfully executed from data understanding to analysis, showcasing a full-cycle data analytics workflow.
 
-- **Power BI Dashboard:** We designed and developed a comprehensive Power BI dashboard for Olympics data analysis, enhancing data visualization and insights.
+- **Power BI Dashboard:** I designed and developed a comprehensive Power BI dashboard for Olympics data analysis, enhancing data visualization and insights.
 
 - **Real-Time Updates:** The Power BI dashboard includes real-time data updates, ensuring you stay up-to-date with Olympic events.
 
