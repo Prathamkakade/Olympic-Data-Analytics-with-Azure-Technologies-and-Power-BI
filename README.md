@@ -2,8 +2,8 @@
 
 ## Overview
 
-• Utilized Azure Data Factory for data ingestion, transformation, and orchestration.
-• Stored and managed data efficiently using Azure Data Lake Gen 2.
+• Utilized Azure Data Factory for data ingestion, transformation, and orchestration. <br>
+• Stored and managed data efficiently using Azure Data Lake Gen 2. <br>
 • Conducted advanced data analytics and created data pipelines with Azure Synapse Analytics.
 • Performed data processing and analysis tasks using Azure Databricks.
 • Demonstrated proficiency in working with diverse datasets and APIs.
