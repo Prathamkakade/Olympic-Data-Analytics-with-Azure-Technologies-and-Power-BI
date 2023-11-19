@@ -24,7 +24,7 @@ Welcome to the Olympic Data Analytics project powered by Azure Technologies and 
 
 ## Dashboard Features
 
-Our Power BI dashboard offers the following features:
+Our Power BI dashboard offers the following features:-
 
 - **Interactive Visuals:** Explore Olympic data through interactive charts, graphs, and maps, providing a deep understanding of Olympic history.
 
