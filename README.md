@@ -1,5 +1,4 @@
 # Olympic Data Analytics with Azure Technologies and Power
-
 ## Overview
 
 Welcome to the Olympic Data Analytics project powered by Azure Technologies and enhanced with Power BI! This project showcases the utilization of various Azure services for data ingestion, transformation, orchestration, and analytics. Here's a summary of what I've accomplished:-
