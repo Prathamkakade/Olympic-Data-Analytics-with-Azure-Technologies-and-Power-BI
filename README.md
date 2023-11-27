@@ -1,4 +1,4 @@
-# Olympic Data Analytics with Azure Technologies and Power BI
+# Olympic Data Analytics with Azure Technologies and Power B
 
 ## Overview
 
